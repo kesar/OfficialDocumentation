@@ -1,4 +1,4 @@
-# README
+![logo](https://github.com/TheEOSBureau/OfficialDocumentation/blob/master/logo.png "The EOS Bureau of Investigation")
 
 # The EOS Bureau of Investigation ("EBI" or "The Bureau")
 
@@ -10,4 +10,4 @@ The Governing Documents are:
 
  * Charter
  * Glossary
- * Contact Protocols
+ * [More to follow]
