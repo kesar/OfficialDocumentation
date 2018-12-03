@@ -8,6 +8,6 @@ It lays out principles that altogether form the intention and promise to serve t
 
 The Governing Documents are:
 
- * Charter
- * Glossary
+ * [Charter](https://github.com/TheEOSBureau/OfficialDocumentation/blob/master/Charter.md)
+ * [Glossary](https://github.com/TheEOSBureau/OfficialDocumentation/blob/master/Glossary.md)
  * [More to follow]
