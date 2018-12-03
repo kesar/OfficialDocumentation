@@ -1,4 +1,7 @@
 # EOS Bureau of Investigation (“EBI”)
+
+![logo](https://github.com/TheEOSBureau/OfficialDocumentation/blob/master/logo.png "The EOS Bureau of Investigation")
+
 # Charter
 
 # Preamble
